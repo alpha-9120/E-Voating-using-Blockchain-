@@ -1,4 +1,4 @@
-# 🗳️ dVoting — Decentralised Voting System
+# 🗳️ EVoting — Decentralised Voting System
 
 A decentralized, blockchain-based voting platform designed to ensure secure, transparent, and tamper-proof elections. Built using **Ethereum Smart Contracts**, **Node.js**, **React**, and **MongoDB**.
 
@@ -116,6 +116,6 @@ Frontend should run at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 👨‍💻 Developed by Ramansh Saxena
+## 👨‍💻 Developed by Satyam Pandey
 
 Made with ❤️ for a transparent and secure digital future.
