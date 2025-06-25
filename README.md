@@ -2,7 +2,7 @@
 
 A decentralized, blockchain-based voting platform designed to ensure secure, transparent, and tamper-proof elections. Built using **Ethereum Smart Contracts**, **Node.js**, **React**, and **MongoDB**.
 
-> Developed by **Ramansh Saxena** as a final year CSE project, now shaped into a full-fledged decentralized voting application.
+> Developed by **Satyam Pandey** as a final year CSE project, now shaped into a full-fledged decentralized voting application.
 
 ---
 
